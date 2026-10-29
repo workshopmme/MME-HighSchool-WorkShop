@@ -1,1 +1,0 @@
-import{j as e,c as t}from"./rhu-asme-sc4zb9HP.js";import{A as o}from"./AdminShell-FYnAwmZ1.js";import{S as i}from"./AdminPage-Y760wQi9.js";function m(){return e.jsx(o,{active:"overview",children:r=>e.jsx(i,{api:r})})}t(document.getElementById("root")).render(e.jsx(m,{}));
